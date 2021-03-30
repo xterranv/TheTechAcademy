@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js">
+    </script>
+</head>
+
+<body>
+    <h3>Click this text!!</h3>
+
+    <p>This text Slowly disappeared then reappeared</p>
+
+    <script>
+        // Event setup using a convenience method
+        $("h3").click(function() {
+            alert("You clicked the header!");
+        });
+
+        // Slowly hide all paragraphs
+        $("p").hide("slow");
+
+        // Slowly show all paragraphs
+        $("p").show("slow");
+    </script>
+</body>
+
+</html>

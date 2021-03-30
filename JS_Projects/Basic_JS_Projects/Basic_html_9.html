@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="CSS/Basic_CSS_1.css">
+    <script src="JS/Basic_JavaScript_9.js"></script>
+
+</head>
+
+<body>
+    <h2>Automatic Slideshow</h2>
+    <p>Change image every 2 seconds:</p>
+
+
+
+    <!-- Slideshow container -->
+    <div class="slideshow-container">
+        <button onclick="showSlides()">CLICK HERE To Start</button>
+        <br>
+        <br>
+
+        <!-- Images -->
+        <div class="mySlides fade">
+            <img src="Img/LOTR_Img1.jpg" style="width:100%">
+            <div class="text">The Journey</div>
+        </div>
+
+        <div class="mySlides fade">
+            <img src="Img/LOTR_Img2.jpg" style="width:100%">
+            <div class="text">The Gates of Argonath</div>
+        </div>
+
+        <div class="mySlides fade">
+            <img src="Img/LOTR_Img3.jpg" style="width:100%">
+            <div class="text">LOTR Landscape Scenary</div>
+        </div>
+
+        <!-- Navigation Dots -->
+        <div style="text-align:center">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
+        </div>
+
+    </div>
+</body>
+
+</html>

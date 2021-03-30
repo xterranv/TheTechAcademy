@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- HEAD SECTION -->
+
+<head>
+    <meta charset="UTF-8">
+    <title>B Sullivan</title>
+    <link rel="stylesheet" type="text/css" href="css/Portfolio.css">
+</head>
+<!-- END HEAD SECTION -->
+
+<!-- BODY SECTION -->
+
+<body class="Background">
+
+    <!-- NAV SECTION -->
+    <div class="nav">
+        <a class="active" href="#HOME">Home</a>
+        <a href="#SLIDESHOW">Slideshow</a>
+        <a href="#ABOUT">About</a>
+        <a href="#GITHUB">GitHub</a>
+        <a onclick="openForm()" ondblclick="closeForm()">Contact</a>
+    </div>
+    <!-- END NAV SECTION -->
+    <br>
+    <br>
+
+    <!-- HOME SECTION -->
+    <div id="HOME">
+        <br>
+        <br>
+
+        <!-- VIDEO -->
+        <video controls autoplay muted loop id="Home_video">
+            <source src="videos/technology.mp4" type="video/mp4">
+                Your browser does not support the video format.
+        </video>
+    </div>
+    <!-- END VIDEO -->
+
+    <!-- VIDEO TEXT -->
+    <div class="video-txt">
+        <h1 style="color: whitesmoke;">Bridget Sullivan's Portfolio</h1>
+        <p>
+            <strong>
+                <center>
+                    <q>Learn from yesterday, live for today, hope for tomorrow.
+                    <br>The important thing is not to stop questioning.</q>
+                    <br>— Albert Einstein<br>
+                    <br>
+                    Welcome to my Portfolio Website!!
+                    <br>
+                    My Name is Bridget Sullivan, and here you will find my background, experience and the projects I've worked on.
+                    <br><br>Please take a look around and Thanks for stopping by.
+                </center>
+            </strong>
+        </p>
+    </div>
+    <!-- END VIDEO TEXT-->
+
+    <!-- END HOME SECTION -->
+
+    <!-- SLIDESHOW -->
+    <div id="SLIDESHOW">
+        <div id="Slideshow_Background">
+            <div id="Slideshow_Container">
+
+                <div class="mySlides fade">
+                    <div class="Slide_Number">1 / 5</div>
+                    <img class="Slide_Show_Images" src="img/cartoon_programmer.jpg" style="width:100%">
+                    <div class="text">I'm available to assist you on your project!</div>
+                </div>
+
+                <div class="mySlides fade">
+                    <div class="Slide_Number">2 / 5</div>
+                    <img class="Slide_Show_Images" src="img/HTML_CSS_and_JavaScript.jpeg" style="width:100%">
+                    <div class="text">I am a full-stack software developer,<br> trained in:<br>HTML, CSS, JavaScript,</div>
+                </div>
+
+                <div class="mySlides fade">
+                    <div class="Slide_Number">3 / 5</div>
+                    <img class="Slide_Show_Images" src="img/C_Sharp_and_Dot_NET.png" style="width:100%">
+                    <div class="text">C#, .NET Framework, ASP.NET, MVC,</div>
+                </div>
+
+                <div class="mySlides fade">
+                    <div class="Slide_Number">4 / 5</div>
+                    <img class="Slide_Show_Images" src="img/SQL_and_Database.jpg" style="width:100%">
+                    <div class="text">back end development, databases and SQL.</div>
+                </div>
+
+                <div class="mySlides fade">
+                    <div class="Slide_Number">5 / 5</div>
+                    <img class="Slide_Show_Images" src="img/Coding_1.jpg" style="width:100%">
+                    <div class="text">
+                        <a onclick="openForm()" href="#Contact" style="color:white;">Contact me now!</a>
+                    </div>
+                </div>
+
+                <a class="Previous" onclick="plusSlides(-1)">&#10094;</a>
+                <a class="Next" onclick="plusSlides(1)">&#10095;</a>
+
+            </div>
+            <br>
+
+            <div style="text-align:center">
+
+                <span class="dot" onclick="currentSlide(1)"></span>
+                <span class="dot" onclick="currentSlide(2)"></span>
+                <span class="dot" onclick="currentSlide(3)"></span>
+                <span class="dot" onclick="currentSlide(4)"></span>
+                <span class="dot" onclick="currentSlide(5)"></span>
+
+            </div>
+        </div>
+    </div>
+    <!-- SLIDESHOW -->
+
+    <!-- ABOUT SECTION -->
+    <div class="Row" id="ABOUT">
+        <div class="Column_2">
+            <img src="img/developer4.jpg" alt="developer4">
+        </div>
+
+        <div class="Column_1">
+            <h1>About</h1>
+            <p>I have 25+ years of experience in Technical Support and Software Testing. I recently graduated from <a href="https://www.learncodinganywhere.com" target="_blank">The Tech Academy’s</a> C#/.Net Framework bootcamp.
+                <br><br>At The Tech Academy, I learned the following web and programming languages: HTML, CSS, JavaScript, SQL, C# and more.
+                <br><br>I'm looking for my next step in my career and would love an opportunity to work on your project. If you have any questions or would like to chat, Please <a href="#CONTACT">Contact</a> me below!
+                <br><br>Thanks for stopping by and Have a great Day!!
+            </p>
+        </div>
+    </div>
+    <!-- END ABOUT SECTION-->
+
+    <!-- GITHUB SECTION -->
+    <div class="Row" id="GITHUB">
+        <div class="Column_1">
+            <h1>GitHub</h1>
+            <p>
+                <center>Click the below link to view my coding projects:</center><br><br>
+                <center><a href="https://github.com/xterranv/BeachsideTech_TechnicalProfile/tree/main" target="_blank">Bridget's GitHub Portfolio</a></center>
+            </p>
+        </div>
+
+        <div class="Column_2">
+            <a href="https://github.com/xterranv/BeachsideTech_TechnicalProfile/tree/main" target="_blank"><img src="img/github4.jpg" alt="GitHub"></a>
+        </div>
+    </div>
+    <!-- END GITHUB SECTION -->
+
+    <!-- CONTACT SECTION -->
+    <div id="Contact">
+        <button onclick="openForm()" class="Pop_Up_Button"> CONTACT </button>
+        <div class="form-popup" id="myForm">
+            <!-- <form action="https://formspree.io/info@learncodinganywhere.com" method="POST" class="form-container"> -->
+            <!-- Here we are using a free online service from https://formspree.io/ to send our contact form to an email address of our choosing - note: it will not run unless live on the internet, you have to push it to your online website first -->
+            <h1>Contact</h1>
+            <br>
+            <br>
+            <center>I can be contacted via&nbsp;<a href="mailto: BeachsideTech@yahoo.com">email</a>, or Message me on <a href="https://www.linkedin.com/in/bridget-sullivan-5ba5ab/">LinkedIn.</a></center><br>
+            <center>Thanks for stopping by and Have a great Day!!</center>
+
+            <!-- <label for="name"><b>Name</b></label>
+                <input type="text" placeholder="Type your name here" name="name" required>
+                <label for="phone"><b>Phone</b></label>
+                <input type="text" placeholder="Enter your phone number here" name="phone">
+                <label for="email"><b>Email</b></label>
+                <input type="text" placeholder="Type your email address here" name="email" required>
+                <label for="message"><b>Message</b></label>
+                <input type="text" placeholder="Type your message here" name="message">
+
+                <button type="submit" class="btn">SUBMIT</button>
+                <button type="button" class="btn cancel" onclick="closeForm()">CLOSE</button>
+            </form> -->
+        </div>
+    </div>
+    <!-- END CONTACT SECTION -->
+
+    <!-- FOOTER SECTION -->
+    <footer>
+        <p>
+            <center>Click&nbsp;<a href="https://www.linkedin.com/in/bridget-sullivan-5ba5ab/">here</a> to view my LinkedIn Profile</center><br>
+        </p>
+    </footer>
+    <!-- END FOOTER SECTION -->
+
+    <script src="js/Portfolio.js"></script>
+</body>
+<!-- END BODY SECTION -->
+
+</html>

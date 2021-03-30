@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>
+        body {
+            background: #333;
+        }
+        
+        #fadeInIMG {
+            position: relative;
+            height: 600px;
+            width: 800px;
+            margin: 0 auto;
+            color: #fff;
+        }
+        
+        #fadeInIMG img {
+            position: absolute;
+            left: 0;
+            width: 800px;
+            height: 600px;
+            border: 2px solid white;
+            border-radius: 10px;
+            transition: opacity 1s ease-in-out;
+        }
+        
+        #fadeInIMG img.top:hover {
+            opacity: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="fadeInIMG">
+        <h3>
+            <center>One Image to Another, on hover</center>
+        </h3>
+        <img class="bottom" src="img/LOTR_Img1.jpg" />
+        <img class="top" src="img/LOTR_Img2.jpg" />
+    </div>
+
+</html>

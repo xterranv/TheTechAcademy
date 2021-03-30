@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<title>JS Practice Assignments</title>
+
+<body>
+    <h3>Example of a Regular Function call:</h3>
+    <p id="theText"></p>
+    <br>
+    <hr>
+
+    <h3>Example of an Arrow Function call:</h3>
+    <p id="theText2"></p>
+    <br>
+    <hr>
+
+    <h3>Example of the "Some()" method:</h3>
+    <p id="showAge"></p>
+    <br>
+    <hr>
+
+
+
+
+    <script>
+        //Regular Function call
+        var test;
+        test = function() {
+            return "This is text from a reg function call";
+        }
+        document.getElementById("theText").innerHTML = test();
+
+        //Arrow Function call
+        var test2;
+        test2 = () => "This is text from an arrow function call"
+        document.getElementById("theText2").innerHTML = test2();
+
+        //Some() Method Example
+        var ages = [45, 4, 9, 16, 25];
+        checkAge = (age) => age >= 16;
+
+        function myfunction() {
+            return ages.some(checkAge);
+        }
+        document.getElementById("showAge").innerHTML = "Are there age(s) >= 16 in the array?" + " " + myfunction();
+    </script>
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <script src="JS/Basic_JavaScript_12.js"></script>
+</head>
+
+<body>
+    <!-- GetElementByClassName example -->
+    <h1 class="click">This Text Will Change!</h1>
+    <h3 class="click">This Text Will Not Change.</h3>
+    <p>Click the button below for the GetElementByClassName Example: </p>
+    <button onclick="Hello_World_Function()">Click Me</button>
+    <br>
+    <hr>
+
+    <h2>Testing the canvas element</h2>
+    <br>
+    <img id="LOTR_journey" src="Img/LOTR_Img1.jpg" alt="Journey" width="220" height="277">
+
+    <!-- Canvas border and insert image into canvas -->
+    <p>Canvas border:</p>
+    <canvas id="myCanvas" width="220" height="277" style="border: 1px solid black;">
+    Your browser doesn't support the HTML canvas tag.
+    </canvas>
+    <button onclick="myCanvas()">Try It</button>
+    <br>
+    <hr>
+
+    <!-- CreateLinearGradient example -->
+    <canvas id="canvas2" width="300" height="150" style="border:1px solid #d3d3d3;">
+        Your browser does not support the HTML5 canvas tag.
+    </canvas>
+    <script>
+        var c2 = document.getElementById("canvas2");
+        var ctx2 = c2.getContext("2d");
+
+        var grd = ctx2.createLinearGradient(0, 0, 170, 0);
+        grd.addColorStop(0, "black");
+        grd.addColorStop(1, "white");
+
+        ctx2.fillStyle = grd;
+        ctx2.fillRect(20, 20, 150, 100);
+    </script>
+
+
+</body>
+
+</html>

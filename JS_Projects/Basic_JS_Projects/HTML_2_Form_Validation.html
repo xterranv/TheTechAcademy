@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="CSS/CSS_1_Form.css">
+    <script src="JS/JavaScript_2_Form.js"></script>
+
+    <title>Basic Form</title>
+
+</head>
+
+<body>
+    <h3>Basic Form with added JS validation</h3>
+    <div>
+        <form name="myForm" action="" onsubmit="return validateForm()" method="get">
+            *First Name: <input type="text" name="fname">
+            *Last Name: <input type="text" name="lname">
+            Email Addr: <input type="email" name="email">
+            *Phone Number: <input type="text" name="phone">
+            Today's Date: <input type="date" name="date">
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</body>
+
+</html>

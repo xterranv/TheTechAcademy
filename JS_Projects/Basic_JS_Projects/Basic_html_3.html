@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <script src="JS/Basic_JavaScript_3.js"></script>
+</head>
+
+<body>
+    <script type="text/javascript">
+        var x = 50;
+        x++;
+        document.write("The operator ++ increases the value by one. The value is 50, the new value is: ", x);
+    </script>
+    <br>
+    <br>
+    <script type="text/javascript">
+        var x = 50;
+        x--;
+        document.write("The operator -- decreases the value by one. The value is 50, the new value is: ", x);
+    </script>
+    <br>
+
+    <p>This example uses the addEventListener method </p>
+    <ul>
+        <li>CLICK to do Addition</li>
+        <li>MOUSE OFF the page to do Subtraction</li>
+        <li>MOUSE ONTO the page to do division with a remainder</li>
+        <li>DEPRESS A KEY (on the keyboard) to do Division</li>
+        <li>RELEASE a Key Drepress to show negative ten</li>
+        <li>Use the MOUSE WHEEL to do Multiplication</li>
+        <li>DOUBLE CLICK to do All Math operations</li>
+
+    </ul>
+
+    <p id="Math"></p>
+
+    <script>
+        document.getElementById("Math").innerHTML += "Using the Math.PI method to returns the value:" + Math.PI;
+    </script>
+    <br>
+
+    <script>
+        document.addEventListener("click", myAddition); //this envokes the function on a mouse click
+        document.addEventListener("mouseout", mySubtraction); //this envokes the function on a mouse out
+        document.addEventListener("keydown", myDivision); //this envokes the myDivision on a key press
+        document.addEventListener("wheel", myMultiply); //this envokes the function on a key press
+        document.addEventListener("dblclick", myAllMath); //this envokes the function on a dbl click
+        document.addEventListener("mouseover", myModulus); //this envokes the function on a mouse over
+        document.addEventListener("keyup", negationOp); //this envokes the function on navigation to a webpage
+    </script>
+
+
+</body>
+
+</html>

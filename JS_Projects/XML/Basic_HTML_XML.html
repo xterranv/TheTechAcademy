@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <p id="XML_class"></p>
+    <p id="XML_species"></p>
+    <script>
+        var XML_Parser, XML_Document;
+
+        //Creates a text string
+        var Movie = "<dragons>" +
+            "<species>Monstrous Nightmare</species>" +
+            "<class>Stoker</class>" +
+            "<trait>Fire Breathers</trait>" +
+            "</dragons>";
+
+        //Creates an XML parser
+        XML_Parser = new DOMParser();
+
+        //Creates a new XML DOM object using the text string
+        XML_Document = XML_Parser.parseFromString(Movie, "text/xml");
+
+        document.getElementById("XML_species").innerHTML = XML_Document.getElementsByTagName("species")[0].childNodes[0].nodeValue;
+        document.getElementById("XML_class").innerHTML = XML_Document.getElementsByTagName("class")[0].childNodes[0].nodeValue;
+    </script>
+
+
+</body>
+
+</html>

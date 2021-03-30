@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <script src="JS/Basic_JavaScript_10.js"></script>
+</head>
+
+<body>
+    <hr>
+
+    <p>Click the button to execute a loop that counts to 10</p>
+    <p id="Loop"></p>
+    <button onclick="CallLoop()">Click Here to execute the loop</button>
+    <hr>
+
+    <p>Click the button to execute a loop that lists instruments</p>
+    <p id="ListInstruments"></p>
+    <button onclick="myForLoop()">CLICK HERE FOR LIST</button>
+    <hr>
+
+    <p>Array example. The image at index 0 of the array is below. This is:</p>
+    <img src="Img/LOTR_Img2.jpg" alt="The Journey">
+    <p id="Array"></p>
+    <button onclick="LOTRpics()">Click for the Answer</button>
+    <hr>
+
+    <p>String length example. How many characters in the text:<br></p>
+    <p>"The quick brown fox jumped over the lazy dog."</p>
+    <p id="HowManyChars"></p>
+    <button onclick="myStrCount()">Click to Count Chars</button>
+    <hr>
+
+    <p>Function Scope example:<br></p>
+    <p id="myCar"></p>
+    <button onclick="myFunctionScope()">Click Here</button>
+    <hr>
+
+    <p>const keyword example:<br></p>
+    <p id="instrument"></p>
+    <button onclick="myInstruments()">Click Here</button>
+    <hr>
+
+    <p>Return Example: Return PI</p>
+    <p id="myPie"></p>
+    <script>
+        document.getElementById("myPie").innerHTML = ReturnPie();
+    </script>
+    <hr>
+
+    <p>Object with properties and method</p>
+    <p id="dog"></p>
+    <script>
+        document.getElementById("dog").innerHTML = animal.description();
+    </script>
+    <hr>
+
+    <p>Count with a break at 5 </p>
+    <p id="count"></p>
+    <script>
+        document.getElementById("count").innerHTML = nbr;
+    </script>
