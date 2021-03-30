@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment8_p183\bin\Debug\CS_Assignment8_p183.exe.config
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment8_p183\bin\Debug\CS_Assignment8_p183.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment8_p183\bin\Debug\CS_Assignment8_p183.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment8_p183\obj\Debug\CS_Assignment8_p183.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment8_p183\obj\Debug\CS_Assignment8_p183.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment8_p183\obj\Debug\CS_Assignment8_p183.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment8_p183\obj\Debug\CS_Assignment8_p183.csprojAssemblyReference.cache

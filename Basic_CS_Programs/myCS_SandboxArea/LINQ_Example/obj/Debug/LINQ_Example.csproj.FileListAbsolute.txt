@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\LINQ_Example\bin\Debug\LINQ_Example.exe.config
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\LINQ_Example\bin\Debug\LINQ_Example.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\LINQ_Example\bin\Debug\LINQ_Example.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\LINQ_Example\obj\Debug\LINQ_Example.csprojAssemblyReference.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\LINQ_Example\obj\Debug\LINQ_Example.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\LINQ_Example\obj\Debug\LINQ_Example.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\LINQ_Example\obj\Debug\LINQ_Example.pdb

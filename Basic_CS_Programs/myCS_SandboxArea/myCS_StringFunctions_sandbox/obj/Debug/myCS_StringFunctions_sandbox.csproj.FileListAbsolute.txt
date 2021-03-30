@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\myCS_StringFunctions_sandbox\bin\Debug\myCS_StringFunctions_sandbox.exe.config
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\myCS_StringFunctions_sandbox\bin\Debug\myCS_StringFunctions_sandbox.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\myCS_StringFunctions_sandbox\bin\Debug\myCS_StringFunctions_sandbox.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\myCS_StringFunctions_sandbox\obj\Debug\myCS_StringFunctions_sandbox.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\myCS_StringFunctions_sandbox\obj\Debug\myCS_StringFunctions_sandbox.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\myCS_StringFunctions_sandbox\obj\Debug\myCS_StringFunctions_sandbox.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\myCS_StringFunctions_sandbox\obj\Debug\myCS_StringFunctions_sandbox.csprojAssemblyReference.cache

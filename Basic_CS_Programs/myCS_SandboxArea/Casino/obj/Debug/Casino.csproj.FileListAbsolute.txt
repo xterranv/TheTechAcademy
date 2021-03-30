@@ -1,0 +1,6 @@
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\Casino\bin\Debug\Casino.dll
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\Casino\bin\Debug\Casino.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\Casino\obj\Debug\Casino.dll
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\Casino\obj\Debug\Casino.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\Casino\obj\Debug\Casino.csprojAssemblyReference.cache

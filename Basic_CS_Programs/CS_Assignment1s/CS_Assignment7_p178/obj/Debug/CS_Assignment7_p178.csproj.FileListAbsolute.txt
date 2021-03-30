@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment7_p178\obj\Debug\CS_Assignment7_p178.csprojAssemblyReference.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment7_p178\obj\Debug\CS_Assignment7_p178.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment7_p178\bin\Debug\CS_Assignment7_p178.exe.config
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment7_p178\bin\Debug\CS_Assignment7_p178.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment7_p178\bin\Debug\CS_Assignment7_p178.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment7_p178\obj\Debug\CS_Assignment7_p178.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment7_p178\obj\Debug\CS_Assignment7_p178.pdb

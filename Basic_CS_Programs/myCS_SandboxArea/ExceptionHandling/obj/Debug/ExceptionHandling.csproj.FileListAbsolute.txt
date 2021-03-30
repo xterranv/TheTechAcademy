@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache

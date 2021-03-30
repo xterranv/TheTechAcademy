@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment11_SixPart_pg197_202\bin\Debug\CS_Assignment11_SixPart_pg197_202.exe.config
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment11_SixPart_pg197_202\bin\Debug\CS_Assignment11_SixPart_pg197_202.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment11_SixPart_pg197_202\bin\Debug\CS_Assignment11_SixPart_pg197_202.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment11_SixPart_pg197_202\obj\Debug\CS_Assignment11_SixPart_pg197_202.csprojAssemblyReference.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment11_SixPart_pg197_202\obj\Debug\CS_Assignment11_SixPart_pg197_202.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment11_SixPart_pg197_202\obj\Debug\CS_Assignment11_SixPart_pg197_202.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment11_SixPart_pg197_202\obj\Debug\CS_Assignment11_SixPart_pg197_202.pdb

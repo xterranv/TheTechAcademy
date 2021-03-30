@@ -1,0 +1,10 @@
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\TwentyOneLiveGame\bin\Debug\TwentyOneLiveGame.exe.config
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\TwentyOneLiveGame\bin\Debug\TwentyOneLiveGame.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\TwentyOneLiveGame\bin\Debug\TwentyOneLiveGame.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\TwentyOneLiveGame\bin\Debug\Casino.dll
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\TwentyOneLiveGame\bin\Debug\Casino.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\TwentyOneLiveGame\obj\Debug\TwentyOneLiveGame.csprojAssemblyReference.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\TwentyOneLiveGame\obj\Debug\TwentyOneLiveGame.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\TwentyOneLiveGame\obj\Debug\TwentyOneLiveGame.csproj.CopyComplete
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\TwentyOneLiveGame\obj\Debug\TwentyOneLiveGame.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\TwentyOneLiveGame\obj\Debug\TwentyOneLiveGame.pdb

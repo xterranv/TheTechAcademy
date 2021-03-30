@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment2_pg140\bin\Debug\CS_Assignment2_pg140.exe.config
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment2_pg140\bin\Debug\CS_Assignment2_pg140.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment2_pg140\bin\Debug\CS_Assignment2_pg140.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment2_pg140\obj\Debug\CS_Assignment2_pg140.csprojAssemblyReference.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment2_pg140\obj\Debug\CS_Assignment2_pg140.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment2_pg140\obj\Debug\CS_Assignment2_pg140.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment2_pg140\obj\Debug\CS_Assignment2_pg140.pdb

@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment10_p191\bin\Debug\CS_Assignment10_p191.exe.config
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment10_p191\bin\Debug\CS_Assignment10_p191.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment10_p191\bin\Debug\CS_Assignment10_p191.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment10_p191\obj\Debug\CS_Assignment10_p191.csprojAssemblyReference.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment10_p191\obj\Debug\CS_Assignment10_p191.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment10_p191\obj\Debug\CS_Assignment10_p191.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment10_p191\obj\Debug\CS_Assignment10_p191.pdb

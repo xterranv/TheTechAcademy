@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\DateTime and TimeSpan\bin\Debug\DateTime and TimeSpan.exe.config
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\DateTime and TimeSpan\bin\Debug\DateTime and TimeSpan.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\DateTime and TimeSpan\bin\Debug\DateTime and TimeSpan.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\DateTime and TimeSpan\obj\Debug\DateTime and TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\DateTime and TimeSpan\obj\Debug\DateTime and TimeSpan.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\DateTime and TimeSpan\obj\Debug\DateTime and TimeSpan.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\DateTime and TimeSpan\obj\Debug\DateTime and TimeSpan.csprojAssemblyReference.cache

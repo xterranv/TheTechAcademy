@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment1_pg133\bin\Debug\CS_Assignment1_pg133.exe.config
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment1_pg133\bin\Debug\CS_Assignment1_pg133.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment1_pg133\bin\Debug\CS_Assignment1_pg133.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment1_pg133\obj\Debug\CS_Assignment1_pg133.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment1_pg133\obj\Debug\CS_Assignment1_pg133.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment1_pg133\obj\Debug\CS_Assignment1_pg133.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment1_pg133\obj\Debug\CS_Assignment1_pg133.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment9_p186\obj\Debug\CS_Assignment9_p186.csprojAssemblyReference.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment9_p186\obj\Debug\CS_Assignment9_p186.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment9_p186\bin\Debug\CS_Assignment9_p186.exe.config
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment9_p186\bin\Debug\CS_Assignment9_p186.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment9_p186\bin\Debug\CS_Assignment9_p186.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment9_p186\obj\Debug\CS_Assignment9_p186.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment9_p186\obj\Debug\CS_Assignment9_p186.pdb

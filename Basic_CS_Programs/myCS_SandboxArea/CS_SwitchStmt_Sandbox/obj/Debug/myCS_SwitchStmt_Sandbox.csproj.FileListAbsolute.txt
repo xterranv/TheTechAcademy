@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\CS_SwitchStmt_Sandbox\bin\Debug\CS_SwitchStmt_Sandbox.exe.config
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\CS_SwitchStmt_Sandbox\bin\Debug\CS_SwitchStmt_Sandbox.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\CS_SwitchStmt_Sandbox\bin\Debug\CS_SwitchStmt_Sandbox.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\CS_SwitchStmt_Sandbox\obj\Debug\myCS_SwitchStmt_Sandbox.csprojAssemblyReference.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\CS_SwitchStmt_Sandbox\obj\Debug\myCS_SwitchStmt_Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\CS_SwitchStmt_Sandbox\obj\Debug\CS_SwitchStmt_Sandbox.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\CS_SwitchStmt_Sandbox\obj\Debug\CS_SwitchStmt_Sandbox.pdb

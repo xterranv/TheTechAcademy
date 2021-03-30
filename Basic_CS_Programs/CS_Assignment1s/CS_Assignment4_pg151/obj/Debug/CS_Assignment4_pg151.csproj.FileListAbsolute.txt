@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment4_pg151\bin\Debug\CS_Assignment4_pg151.exe.config
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment4_pg151\bin\Debug\CS_Assignment4_pg151.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment4_pg151\bin\Debug\CS_Assignment4_pg151.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment4_pg151\obj\Debug\CS_Assignment4_pg151.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment4_pg151\obj\Debug\CS_Assignment4_pg151.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment4_pg151\obj\Debug\CS_Assignment4_pg151.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment4_pg151\obj\Debug\CS_Assignment4_pg151.csprojAssemblyReference.cache

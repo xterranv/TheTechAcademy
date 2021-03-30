@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment5_pg152\bin\Debug\CS_Assignment5_pg152.exe.config
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment5_pg152\bin\Debug\CS_Assignment5_pg152.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment5_pg152\bin\Debug\CS_Assignment5_pg152.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment5_pg152\obj\Debug\CS_Assignment5_pg152.csprojAssemblyReference.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment5_pg152\obj\Debug\CS_Assignment5_pg152.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment5_pg152\obj\Debug\CS_Assignment5_pg152.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\CS_Assignment1s\CS_Assignment5_pg152\obj\Debug\CS_Assignment5_pg152.pdb

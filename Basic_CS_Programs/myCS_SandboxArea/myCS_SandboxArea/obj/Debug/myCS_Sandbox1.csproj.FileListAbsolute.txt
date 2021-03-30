@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\myCS_SandboxArea\obj\Debug\myCS_Sandbox1.csprojAssemblyReference.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\myCS_SandboxArea\obj\Debug\myCS_Sandbox1.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\myCS_SandboxArea\obj\Debug\myCS_SandboxArea.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\myCS_SandboxArea\obj\Debug\myCS_SandboxArea.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\myCS_SandboxArea\bin\Debug\myCS_SandboxArea.exe.config
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\myCS_SandboxArea\bin\Debug\myCS_SandboxArea.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\myCS_SandboxArea\bin\Debug\myCS_SandboxArea.pdb

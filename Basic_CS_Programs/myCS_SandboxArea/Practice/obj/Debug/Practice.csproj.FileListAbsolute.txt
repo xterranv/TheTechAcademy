@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\Practice\bin\Debug\Practice.exe.config
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\Practice\bin\Debug\Practice.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\Practice\bin\Debug\Practice.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\Practice\obj\Debug\Practice.exe
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\Practice\obj\Debug\Practice.pdb
+C:\Users\xterr\Desktop\Basic_CS_Programs\myCS_SandboxArea\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
