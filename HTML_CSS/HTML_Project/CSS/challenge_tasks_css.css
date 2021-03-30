@@ -1,0 +1,292 @@
+/* -----------------------------------
+    GENERIC STYLING
+   ----------------------------------- */
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: min-content;
+    height: min-content;
+}
+
+img {
+    filter: grayscale(75%);
+    border: 2px;
+    padding: 10px;
+    border-radius: 50px 20px;
+}
+
+.img-container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: darkred;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#footer {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding: 3px;
+    color: darkgreen;
+    background-color: lemonchiffon;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p,
+li {
+    font-size: 15px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bold;
+}
+
+.hov-p-text:hover {
+    background-color: #2e0c7c;
+    color: #fff;
+}
+
+
+/* -----------------------------------
+        NAV STYLING
+       ----------------------------------- */
+
+.menu-container {
+    position: fixed;
+    top: 0;
+    left: 35%;
+    width: 50%;
+}
+
+.menu {
+    font: bold 12px/18px sans-serif;
+    text-align: center;
+    display: inline;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu li {
+    color: darkgrey;
+    display: inline-block;
+    margin-right: -2px;
+    position: relative;
+    padding: 12px 40px;
+    border: 1px solid #9d9fa2;
+    border-radius: 1.5px;
+    background-color: #463893;
+    cursor: pointer;
+}
+
+.menu li:hover {
+    background-color: #0c4a7c;
+    color: #fff;
+}
+
+.menu li:hover ul {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+}
+
+
+/* -----------------------------------
+    TABLE STYLING
+    ----------------------------------- */
+
+table {
+    width: 100%;
+    border: 3px solid black;
+}
+
+td:hover {
+    background-color: blue;
+    color: yellowgreen;
+}
+
+tr,
+th {
+    border: 1px solid black;
+    background-color: darkgreen;
+    color: white;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+tr,
+td {
+    border: 1px solid black;
+    background-color: gray;
+    color: black;
+    padding: 15px;
+    font-size: 13px;
+}
+
+
+/* -----------------------------------
+    Column STYLING
+    ----------------------------------- */
+
+.column1 {
+    box-sizing: border-box;
+    background-color: darksalmon;
+    float: left;
+    width: 50%;
+    height: 150px;
+    padding: 10px;
+    color: darkslategrey;
+    text-align: center;
+}
+
+.column2 {
+    box-sizing: border-box;
+    background-color: darkseagreen;
+    float: left;
+    width: 50%;
+    height: 150px;
+    padding: 10px;
+    color: khaki;
+    text-align: center;
+}
+
+
+/* -----------------------------------
+    IMAGE OVERLAY STYLING
+    ----------------------------------- */
+
+.img-overlay-container {
+    position: relative;
+    width: 50%;
+}
+
+.img-overlay {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.img-overlay-center {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.img-overlay-container:hover .img-overlay {
+    opacity: .3;
+}
+
+.img-overlay-container:hover .img-overlay-center {
+    opacity: 1;
+}
+
+.img-overlay-text {
+    background-color: rgb(128, 99, 197);
+    color: white;
+    font-size: 15px;
+    padding: 15px 30px;
+    letter-spacing: 4px;
+}
+
+
+/* -----------------------------------
+    CHALLENGE ASSIGNMENT STYLING
+----------------------------------- */
+
+.challenge1 {
+    border: 1px solid black;
+    color: blue;
+    background-color: burlywood;
+    font-family: "Comic Sans MS", "Tahoma";
+    top: 0;
+    left: 0;
+}
+
+.challenge2 {
+    border: 1px solid black;
+    color: darkred;
+    background-color: lightgreen;
+    font-family: Comic Sans MS, Tahoma;
+}
+
+.challenge3 {
+    border: 1px solid black;
+    color: black;
+    background-color: lightyellow;
+    font-family: "Comic Sans MS", "Tahoma";
+}
+
+.challenge4 {
+    border: 1px solid black;
+    color: black;
+    background-color: rgb(151, 220, 241);
+    font-family: "Comic Sans MS", "Tahoma";
+}
+
+.challenge5 {
+    border: 1px solid black;
+    color: black;
+    background-color: rgb(226, 214, 226);
+    font-family: "Comic Sans MS", "Tahoma";
+}
+
+.challenge6 {
+    border: 1px solid black;
+    color: black;
+    background-color: pink;
+    font-family: "Comic Sans MS", "Tahoma";
+}
+
+.challenge7 {
+    border: 1px solid black;
+    color: black;
+    background-color: darkslategray;
+    font-family: "Comic Sans MS", "Tahoma";
+}
+
+.challenge8 {
+    border: 1px solid black;
+    color: black;
+    background-color: rgb(170, 241, 241);
+    font-family: "Comic Sans MS", "Tahoma";
+}
+
+.challenge9 {
+    border: 1px solid black;
+    color: black;
+    background-color: lightskyblue;
+    font-family: "Comic Sans MS", "Tahoma";
+}
+
+.challenge10 {
+    border: 1px solid black;
+    color: black;
+    background-color: royalblue;
+    font-family: "Comic Sans MS", "Tahoma";
+}

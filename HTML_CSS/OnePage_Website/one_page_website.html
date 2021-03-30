@@ -1,0 +1,212 @@
+<!DOCTYPE html >
+<html lang="en">
+
+<head>
+    <title>Ultimate Dog Resort</title>
+    <META http-equiv="Content-Type" content="text/html" ; charset="UTF-8">
+    <meta content="width=device-width,initial-scale=1.0" name="viewpoint">
+    <link rel="stylesheet" type="text/css" href="./CSS/one_page_website.css">
+    <script src="JS/one_page_website.js" defer></script>
+</head>
+
+<body>
+
+
+    <!-- HOME PAGE -->
+    <div id="home">
+        <div class="transbox">
+            <h1>Ultimate Xtreme Dog Park Adventures</h1>
+            <h2>A True Adventure Resort for you and your dog</h2>
+
+            <!-- NAV -->
+            <div class="wrap">
+                <div class="menu-container">
+                    <ul>
+                        <a href="#home">HOME</a> |
+                        <a href="#gallery">GALLERY</a> |
+                        <a href="#book">BOOK NOW</a>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- END NAV -->
+            <br>
+
+            <!-- ABOUT US -->
+            <p><strong>Come for a day or plan a stay at the Ultimate Xtreme Adventure Park and Resort for you and your dog.<br>
+                Nestled in the White Mtns of New England lies the best Adventure Pet resort in the United States.<br>
+                Bring your dog to learn to play one of many high enegry activities they'll love like:
+                    <ul>
+                        <li>Freestyle Flying Disc,</li> 
+                        <li>Flyball,</li>
+                        <li>Agility,</li>
+                        <li>Dock jumping,</li>
+                        <li>Herding,</li>
+                    </ul>
+            </strong>
+            </p>
+            <br>
+            <!-- END ABOUT US -->
+        </div>
+
+        <!-- RESORT VIDEO -->
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gsYF8mMnufY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ttOW2CWjqwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <br>
+        </div>
+        <!-- END RESORT VIDEO -->
+
+    </div>
+    <!-- </section> -->
+
+
+    <!-- END HOME PAGE -->
+
+    <!-- GALLERY -->
+    <section>
+        <div id="gallery">
+            <h1>Gallery</h1>
+            <!-- NAV -->
+            <div class="wrap">
+                <div class="menu-container">
+                    <ul>
+                        <a href="#home">HOME</a> |
+                        <a href="#gallery">GALLERY</a> |
+                        <a href="#book">BOOK NOW</a>
+                    </ul>
+                </div>
+            </div>
+            <!-- END NAV -->
+
+            <div class="row">
+                <!-- PHOTO 1 -->
+                <div class="column">
+                    <img src="Dogs1a.jpg" onclick="openModal();currentSlide(1)" class="hover-shadow" width="400" height="300">
+                </div>
+                <!-- END PHOTO 1-->
+
+                <!-- PHOTO 2 -->
+                <div class="column">
+                    <img src="Dogs5.jpg" onclick="openModal();currentSlide(2)" class="hover-shadow" width="400" height="300">
+                </div>
+                <!-- END PHOTO  2 -->
+
+                <!-- PHOTO 3 -->
+                <div class="column">
+                    <img src="Dogs8.jpg" onclick="openModal();currentSlide(3)" class="hover-shadow" width="400" height="300">
+                </div>
+                <!-- END PHOTO 3 -->
+
+                <!-- PHOTO 4 -->
+                <div class="column">
+                    <img src="Dogs3.jpg" onclick="openModal();currentSlide(4)" class="hover-shadow" width="400" height="300">
+                </div>
+                <!-- END PHOTO 4 -->
+            </div>
+
+            <!-- The Modal/Lightbox -->
+            <div id="myModal" class="modal">
+                <span class="close cursor" onclick="closeModal()">&times;</span>
+                <div class="modal-content">
+
+                    <div class="mySlides">
+                        <div class="numbertext">1 / 4</div>
+                        <img src="Dogs1a.jpg" style="width:100%">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">2 / 4</div>
+                        <img src="Dogs5.jpg" style="width: 100%;">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">3 / 4</div>
+                        <img src="Dogs8.jpg" style="width: 100%;">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">4 / 4</div>
+                        <img src="Dogs3.jpg" style="width: 100%;">
+                    </div>
+
+                    <!-- Next/previous controls -->
+                    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+                    <!-- Caption text -->
+                    <div class="caption-container">
+                        <p id="caption"></p>
+                    </div>
+
+                    <!-- Thumbnail image controls -->
+                    <div class="column">
+                        <img class="imgThumbnail" src="Dogs1a.jpg" onclick="currentSlide(1)" alt="Dog chasing tennis ball" width="150" height="100">
+                    </div>
+
+                    <div class="column">
+                        <img class="imgThumbnail" src="Dogs5.jpg" onclick="currentSlide(2)" alt="Dog Flyball" width="150" height="100">
+                    </div>
+
+                    <div class="column">
+                        <img class="imgThumbnail" src="Dogs8.jpg" onclick="currentSlide(3)" alt="Dog Frisbee" width="150" height="100">
+                    </div>
+
+                    <div class="column">
+                        <img class="imgThumbnail" src="Dogs3.jpg" onclick="currentSlide(4)" alt="Dog deck jumping" width="150" height="100">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- END GALLERY -->
+
+    <!-- BOOK NOW -->
+    <section>
+        <div id="book">
+            <div class="book-container">
+                <h1><span></span>BOOK NOW<span></h1>
+                <p> If you're interested in further details, Please fill in the form below to be contacted by a customer representative</p>
+                <form action="" method="get">
+                    First Name: <input type="text" name="first_name"><br> 
+                    Last Name: <input type="text" name="last_name"><br> 
+                    Email Address: <input type="email" name="email"><br> 
+                    Phone Number: <input type="text" name="phone"><br> 
+                    Checkin Date: <input type="date" name="start_dt"><br> 
+                    Checkout Date: <input type="date" name="end_dt"><br> 
+                    Package Selection: <select id="packages" name="packages"><br>
+                            <option value="All Inclusive">All Inclusive Package</option>
+                            <option value="Deluxe">Deluxe Package</option>
+                            <option value="Super">Super Package</option>
+                            <option value="Premium">Premium Package</option>
+                            <option value="One Day">One Day Ticket</option>
+                        </select>
+                            <br>
+                            <br>
+                            <input type="submit" value="Submit">
+                </form>
+            </div>
+        </div>
+        <br>
+
+        <!-- NAV -->
+        <div class="wrap">
+            <div class="menu-container">
+                <ul>
+                    <a href="#home">HOME</a> |
+                    <a href="#gallery">GALLERY</a> |
+                    <a href="#book">BOOK NOW</a>
+                </ul>
+            </div>
+        </div>
+        <!-- END NAV -->
+    </section>
+    <!-- END BOOK NOW -->
+
+    <footer>
+        <h4>Ultimate Xtreme Dog Park Adventures - www.UltimateXtremeDogPark.com - Contact number: 1-800-555-5775</h4>
+    </footer>
+</body>
+
+</html>
