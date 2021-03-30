@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg300\bin\Debug\Cs_Assignment_pg300.exe.config
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg300\bin\Debug\Cs_Assignment_pg300.exe
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg300\bin\Debug\Cs_Assignment_pg300.pdb
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg300\obj\Debug\Cs_Assignment_pg300.csprojAssemblyReference.cache
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg300\obj\Debug\Cs_Assignment_pg300.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg300\obj\Debug\Cs_Assignment_pg300.exe
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg300\obj\Debug\Cs_Assignment_pg300.pdb

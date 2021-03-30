@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg265\bin\Debug\Cs_Assignment_pg265.exe.config
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg265\bin\Debug\Cs_Assignment_pg265.exe
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg265\bin\Debug\Cs_Assignment_pg265.pdb
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg265\obj\Debug\Cs_Assignment_pg265.csprojAssemblyReference.cache
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg265\obj\Debug\Cs_Assignment_pg265.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg265\obj\Debug\Cs_Assignment_pg265.exe
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg265\obj\Debug\Cs_Assignment_pg265.pdb

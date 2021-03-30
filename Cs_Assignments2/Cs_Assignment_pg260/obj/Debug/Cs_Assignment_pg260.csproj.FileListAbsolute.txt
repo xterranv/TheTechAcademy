@@ -1,0 +1,7 @@
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg260\bin\Debug\Cs_Assignment_pg260.exe.config
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg260\bin\Debug\Cs_Assignment_pg260.exe
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg260\bin\Debug\Cs_Assignment_pg260.pdb
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg260\obj\Debug\Cs_Assignment_pg260.csprojAssemblyReference.cache
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg260\obj\Debug\Cs_Assignment_pg260.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg260\obj\Debug\Cs_Assignment_pg260.exe
+C:\Users\xterr\Desktop\Csharp_Assignments\Cs_Assignments2\Cs_Assignment_pg260\obj\Debug\Cs_Assignment_pg260.pdb
